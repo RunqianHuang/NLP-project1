@@ -1,0 +1,5 @@
+1. Preprocessing the txt file - change the upper case letters to lower case + add start marks and ending 
+   marks for each sentence + (delete the double quotation marks?)
+2. Read and insert the txt file as tokens into a database. One word, two words -- create the database and the tables
+3. Calculate the probabilities of each data and save in the database
+4. Generate random sentence according to the probablities saved in the database
